@@ -49,13 +49,6 @@ Unlike the **Bank System V3** which focuses on *Admin/Employee management tools*
 
 ---
 
-## 🧠 Programming Concepts Applied
-
-- **Structures (`struct`) & State:** Encapsulating client properties and tracking active session state globally.
-- **Advanced String Tokenization (`SplitString`):** Splitting data lines using customizable delimiters (`#//#`) to reconstruct runtime objects.
-- **Dynamic Array Structures (`std::vector`):** Managing datasets in memory efficiently for search and amendment loops.
-- **File Handling Stream (`fstream`):** Running structural dual-mode reads (`ios::in`) and overwrite writes (`ios::out`) to guarantee data integrity.
-- **Mathematical Validation:** Applying mathematical modulus operators (`Amount % 5 != 0`) to guarantee proper physical currency distributions.
 
 ---
 

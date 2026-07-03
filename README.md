@@ -12,11 +12,11 @@ This project was built as part of the practical applications in the **"Data Stru
 
 ---
 
-## 🆚 ATM System vs Bank System V2
+## 🆚 ATM System vs Bank System V3
 
-Unlike the **Bank System V2** which focuses on *Admin/Employee management tools* (managing clients, users, and global permissions), this **ATM System** is *Client-Facing*, providing a dedicated, secure, and streamlined portal for the bank's actual customers.
+Unlike the **Bank System V3** which focuses on *Admin/Employee management tools* (managing clients, users, and global permissions), this **ATM System** is *Client-Facing*, providing a dedicated, secure, and streamlined portal for the bank's actual customers.
 
-| Feature | Bank System V2 | ATM System |
+| Feature | Bank System V3 | ATM System |
 | :--- | :---: | :---: |
 | **Primary User** | Admins / Staff | Bank Clients |
 | **Authentication** | Username + Password | Account Number + PIN |
